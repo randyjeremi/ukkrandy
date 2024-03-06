@@ -1,0 +1,17 @@
+* {
+  font-family: Poppins;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("assets/henry-be-lc7xcWebECc-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.landingpage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
